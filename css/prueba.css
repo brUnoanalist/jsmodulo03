@@ -1,0 +1,31 @@
+h1,h2{
+    color:aliceblue;
+    text-align:center
+}
+button{
+    
+    color:black;
+    border-radius:5px;
+    
+    
+    
+}
+
+.square{
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+    background-color:white;
+    margin: 10px;
+
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    }
+body{
+    background-color:black;
+
+}
+
